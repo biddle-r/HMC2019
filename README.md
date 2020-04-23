@@ -10,9 +10,9 @@ Data file contains three columns:
 
 | Label        | Label Description           | Example |
 | ------------- |-------------| -------------|
-| 0      | right-aligned | he is such a headache |
-| 1      | centered      | try this home headache rememdy now |
-| 2 | Health mentions      | i have a headache |
+| 0      | Figurative Mentions | he is such a headache |
+| 1      | Other Mentions      | try this home headache rememdy now |
+| 2      | Health mentions     | i have a headache |
 
 **Health Keyword** : The health keyword mentioned in the tweet. (i.e, cough, cancer, etc) 
 
