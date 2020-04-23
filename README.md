@@ -1,4 +1,4 @@
-# Data for "Leveraging Sentiment Distributions to Distinguish Figurative From Literal Health Reports on Twitter" paper presented at WebConf 2020.
+# Data for "Leveraging Sentiment Distributions to Distinguish Figurative From Literal Health Reports on Twitter" paper presented at The Web Conference '20.
 
 ***
 
