@@ -11,7 +11,7 @@ Data file contains three columns:
 | Label        | Label Description           | Example |
 | ------------- |-------------| -------------|
 | 0      | Figurative Mentions | he is such a *headache* |
-| 1      | Other Mentions      | try this home *headache* rememdy now |
+| 1      | Other Mentions      | try this home *headache* remedy now |
 | 2      | Health mentions     | i have a *headache* |
 
 **Health Keyword** : The health keyword mentioned in the tweet. (i.e, cough, cancer, etc) 
